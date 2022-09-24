@@ -1,5 +1,5 @@
 
-### Óla, seja bem vindo ao meu github 😁
+### Olá, seja bem vindo ao meu github 😁
 
 [![LinKedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-camilo-23b4a520b/)
 
