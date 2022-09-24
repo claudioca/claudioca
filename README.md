@@ -22,3 +22,5 @@
 </div>
 
 ## Viciado em conhecimento e tecnologias ! 
+
+### Hard skills 
